@@ -1,0 +1,134 @@
+﻿  ActionAddNotes.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionChangeByCode.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionChangeByCode.cpp(43,21): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionChangeByCode.cpp(79,21): warning C4101: 'msg': unreferenced local variable
+  ActionChangeMenuItemTo.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionDeleteCourse.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDeleteCourse.cpp(43,21): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDeleteCourse.cpp(52,11): warning C4101: 'deletedSemester': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDeleteCourse.cpp(54,6): warning C4101: 'orderOfCourse': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDeleteCourse.cpp(53,6): warning C4101: 'deletedYear': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDeleteCourse.cpp(62,21): warning C4101: 'msg': unreferenced local variable
+  ActionDragAndDropCrs.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionDragAndDropCrs.cpp(70,24): warning C4101: 'msg': unreferenced local variable
+  ActionImpOffering.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImport.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportCourseCatalog.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportDefaulPlan.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportRules.cpp
+  ActionImpReq.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionShowCourseInfo.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\ActionShowCourseInfo.cpp(39,21): warning C4101: 'msg': unreferenced local variable
+  ActionShowNotes.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionAddCourse.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  Course.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  EmptyAction.cpp
+  CMUgraphics.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  colors.cpp
+  image.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  keyqueue.cpp
+  Compiling...
+  mousequeue.cpp
+  windowinput.cpp
+  Drawable.cpp
+  GUI.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(125,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(127,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(375,21): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(404,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(405,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(406,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Main.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  Registrar.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\Registrar.cpp(127,22): warning C4101: 'msg': unreferenced local variable
+  Rules.cpp
+  StringUtils.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\StringUtils.cpp(15,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\StringUtils.cpp(21,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\StringUtils.cpp(26,46): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  AcademicYear.cpp
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(36): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(42): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\StudyPlan\AcademicYear.cpp(42,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StudyPlan.cpp
+  jpegload.c
+  jcomapi.c
+  jcparam.c
+  jdapimin.c
+  jdapistd.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(169,30): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'const char *'
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(169,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(171,30): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'const char *'
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(171,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(172,24): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(172,21): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+  Compiling...
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4421 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SPOT.vcxproj -> D:\Zewail\Year 2\C++\SPOT_study-plan_Organizatio_Tool\SPOT - CIE202 Project Code Framework\x64\Release\SPOT.exe

@@ -1,0 +1,182 @@
+﻿  ActionAddGrade.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionAddGrade.cpp(19,15): warning C4101: 'error': unreferenced local variable
+  ActionAddNotes.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionChangeByCode.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionChangeByCode.cpp(46,21): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionChangeByCode.cpp(88,21): warning C4101: 'msg': unreferenced local variable
+  ActionChangeMenuItemTo.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionDeleteCourse.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionDeleteCourse.cpp(44,15): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionDeleteCourse.cpp(70,21): warning C4101: 'msg': unreferenced local variable
+  ActionDisplayStudentLevel.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionDragAndDropCrs.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionDragAndDropCrs.cpp(71,24): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionDragAndDropCrs.cpp(108,24): warning C4101: 'msg': unreferenced local variable
+  ActionImpOffering.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImport.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportCourseCatalog.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportDefaulPlan.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionImportRules.cpp
+  ActionImpReq.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionMarkAsDone.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionMarkAsDone.cpp(28,15): warning C4101: 'error': unreferenced local variable
+  ActionMenuBar.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionShowCourseInfo.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionShowCourseInfo.cpp(45,21): warning C4101: 'msg': unreferenced local variable
+  ActionShowGpa.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionShowNotes.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ActionSignUserUp.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(78,23): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(93,23): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(163,33): warning C4129: 'M': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(164,33): warning C4129: 'M': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(165,33): warning C4129: 'M': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(166,33): warning C4129: 'M': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ActionSignUserUp.cpp(167,33): warning C4129: 'M': unrecognized character escape sequence
+  ActionSupportMinor.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  Generating Code...
+  Compiling...
+  ActionAddCourse.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  ButtonField.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+  Course.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  Drawable_Parent.cpp
+  EmptyAction.cpp
+  CMUgraphics.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  colors.cpp
+  image.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  keyqueue.cpp
+  mousequeue.cpp
+  windowinput.cpp
+  Drawable.cpp
+  GUI.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(139,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(140,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(141,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(448,21): warning C4101: 'msg': unreferenced local variable
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(477,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(478,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.cpp(479,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  ITM_Img_list_field.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+  ListImagesFields.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+  Main.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+  Registrar.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\Registrar.cpp(289,21): warning C4101: 'msg': unreferenced local variable
+  Rules.cpp
+  StringUtils.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\StringUtils.cpp(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\StringUtils.cpp(22,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\StringUtils.cpp(27,46): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  Generating Code...
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\Student.cpp(270): warning C4715: 'Student::isEngeering': not all control paths return a value
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ListImagesFields.cpp(150): warning C4715: 'ListImagesFields::getFinalMajorSelectedString': not all control paths return a value
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ListImagesFields.cpp(131): warning C4715: 'ListImagesFields::getFinalMajorSelected': not all control paths return a value
+  Compiling...
+  AcademicYear.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\StudyPlan\AcademicYear.cpp(42,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StudyPlan.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\StudyPlan\StudyPlan.cpp(795,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Text_field.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+  ViewField.cpp
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+  Generating Code...
+  jpegload.c
+  jcomapi.c
+  jcparam.c
+  jdapimin.c
+  jdapistd.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(169,30): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'const char *'
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(169,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(171,30): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'const char *'
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(171,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(172,24): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+D:\Zewail\FIANL_SPOT\SPOT_FINAL\SPOT\GUI\CMUgraphicsLib\jpeg\jerror.c(172,21): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+  Generating Code...
+  Compiling...
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  Generating Code...
+  SPOT.vcxproj -> D:\Zewail\FIANL_SPOT\SPOT_FINAL\x64\Debug\SPOT.exe
